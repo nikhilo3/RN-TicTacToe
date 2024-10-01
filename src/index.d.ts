@@ -1,0 +1,3 @@
+// interface BoxProps {
+//     trunO: boolean;
+// }
